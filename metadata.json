@@ -1,0 +1,6 @@
+{
+  "name": "DompetKu - Aplikasi Keuangan Android Lengkap",
+  "description": "Aplikasi manajemen keuangan pribadi Android terlengkap: multi-rekening & e-wallet, anggaran bulanan, target tabungan, pencatatan hutang-piutang, analisis arus kas, kalkulator finansial, dan ekspor data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
